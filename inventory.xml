@@ -1,0 +1,2972 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<inventory>
+	<type name="fresh_products">
+		<category name="vegetables">
+			<item>
+				<name>Cucumber</name>
+				<picture>fresh_product_images/cucumber.png</picture>
+				<price>0.89</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Roma Tomato</name>
+				<picture>fresh_product_images/roma_tomato.png</picture>
+				<price>0.30</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Vine Tomato</name>
+				<picture>fresh_product_images/vine_tomato.png</picture>
+				<price>2.67</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Green Bell Pepper</name>
+				<picture>fresh_product_images/green_bell_pepper.png</picture>
+				<price>0.69</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Red Bell Pepper</name>
+				<picture>fresh_product_images/red_bell_pepper.png</picture>
+				<price>1.49</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Yellow Bell Pepper</name>
+				<picture>fresh_product_images/yellow_bell_pepper.png</picture>
+				<price>1.49</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Orange Bell Pepper</name>
+				<picture>fresh_product_images/orange_bell_pepper.png</picture>
+				<price>1.49</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Yellow onions</name>
+				<picture>fresh_product_images/yellow_onion.png</picture>
+				<price>0.96</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>White Onions</name>
+				<picture>fresh_product_images/white_onion.png</picture>
+				<price>0.65</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Red Onions</name>
+				<picture>fresh_product_images/red_onion.png</picture>
+				<price>0.80</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Broccoli Florets</name>
+				<picture>fresh_product_images/broccoli_floret.png</picture>
+				<price>1.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Broccoli Bunch</name>
+				<picture>fresh_product_images/broccoli_bunch.png</picture>
+				<price>2.39</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Yukon Gold Potatoes</name>
+				<picture>fresh_product_images/yukon_gold_potato.png</picture>
+				<price>0.41</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Russet Potatoes</name>
+				<picture>fresh_product_images/russet_potato.png</picture>
+				<price>0.36</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Whole Carrots Bag</name>
+				<picture>fresh_product_images/whole_carrot_bag.png</picture>
+				<price>2.49</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Baby Carrots Bag</name>
+				<picture>fresh_product_images/baby_carrot_bag.png</picture>
+				<price>1.25</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Iceberg Lettuce</name>
+				<picture>fresh_product_images/iceberg_lettuce.png</picture>
+				<price>1.79</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Romaine Lettuce</name>
+				<picture>fresh_product_images/romaine_lettuce.png</picture>
+				<price>1.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Green Leaf Lettuce</name>
+				<picture>fresh_product_images/green_leaf_lettuce.png</picture>
+				<price>1.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Cilantro</name>
+				<picture>fresh_product_images/cilantro.png</picture>
+				<price>0.50</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Basil</name>
+				<picture>fresh_product_images/basil.png</picture>
+				<price>0.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Parsley</name>
+				<picture>fresh_product_images/parsley.png</picture>
+				<price>0.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Mint</name>
+				<picture>fresh_product_images/mint.png</picture>
+				<price>1.99</price>
+				<quantity>1</quantity>
+			</item>
+		</category>
+
+		<category name="fruits">
+			<item>
+				<name>Gala Apple</name>
+				<picture>fresh_product_images/gala_apple.png</picture>
+				<price>0.85</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Honeycrisp Apple</name>
+				<picture>fresh_product_images/honeycrisp_apple.png</picture>
+				<price>1.00</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Granny Smith Apple</name>
+				<picture>fresh_product_images/granny_smith_apple.png</picture>
+				<price>0.62</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Lemon</name>
+				<picture>fresh_product_images/lemon.png</picture>
+				<price>0.69</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Lime</name>
+				<picture>fresh_product_images/lime.png</picture>
+				<price>0.39</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Red Grapefruit</name>
+				<picture>fresh_product_images/red_grapefruit.png</picture>
+				<price>1.89</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Strawberry</name>
+				<picture>fresh_product_images/strawberry.png</picture>
+				<price>0.21</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Blueberry</name>
+				<picture>fresh_product_images/blueberry.png</picture>
+				<price>0.29</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Raspberry</name>
+				<picture>fresh_product_images/raspberry.png</picture>
+				<price>0.49</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Blackberry</name>
+				<picture>fresh_product_images/blackberry.png</picture>
+				<price>0.49</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Green White Seedless Grape</name>
+				<picture>fresh_product_images/green_white_seedless_grape.png</picture>
+				<price>1.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Hass Avocado</name>
+				<picture>fresh_product_images/hass_avocado.png</picture>
+				<price>0.94</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Banana</name>
+				<picture>fresh_product_images/banana.png</picture>
+				<price>0.55</price>
+				<quantity>4</quantity>
+			</item>
+		</category>
+
+		<category name="precut_fruits">
+			<item>
+				<name>Watermelon Chunks</name>
+				<picture>fresh_product_images/watermelon_chunk.png</picture>
+				<price>4.48</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Pineapple Chunks</name>
+				<picture>fresh_product_images/pineapple_chunk.png</picture>
+				<price>4.48</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Cantaloupe Chunks</name>
+				<picture>fresh_product_images/cantaloupe_chunk.png</picture>
+				<price>4.97</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Mango Chunks</name>
+				<picture>fresh_product_images/mango_chunk.png</picture>
+				<price>3.97</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Mixed Apple Slices</name>
+				<picture>fresh_product_images/mixed_apple_slice.png</picture>
+				<price>6.47</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Red Grapefruit Chunks</name>
+				<picture>fresh_product_images/red_grapefruit_chunk.png</picture>
+				<price>1.67</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Mandarin Orange Chunks</name>
+				<picture>fresh_product_images/mandarin_orange_chunk.png</picture>
+				<price>1.67</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Red Apple Slices</name>
+				<picture>fresh_product_images/red_apple_slice.png</picture>
+				<price>3.67</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Peach Chunks</name>
+				<picture>fresh_product_images/peach_chunk.png</picture>
+				<price>1.67</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Yellow Cling Peach Chunks</name>
+				<picture>fresh_product_images/yellow_cling_peach_chunk.png</picture>
+				<price>1.67</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Peeled Apple Slices</name>
+				<picture>fresh_product_images/peeled_apple_slice.png</picture>
+				<price>4.97</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Fruit Salad Chunks</name>
+				<picture>fresh_product_images/fruit_salad_chunk.png</picture>
+				<price>3.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Mixed Melon Chunks</name>
+				<picture>fresh_product_images/mixed_melon_chunk.png</picture>
+				<price>3.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Cut Berry Platter</name>
+				<picture>fresh_product_images/cut_berry_platter.png</picture>
+				<price>5.99</price>
+				<quantity>0</quantity>
+			</item>
+		</category>
+
+		<category name="flowers">
+			<item>
+				<name>Bountiful Garden Bouquet</name>
+				<picture>fresh_product_images/bountiful_garden.png</picture>
+				<price>43.99</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Warm Wishes Bouquet</name>
+				<picture>fresh_product_images/warm_wishes.png</picture>
+				<price>44.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Island Breeze Bouquet</name>
+				<picture>fresh_product_images/island_breeze.png</picture>
+				<price>58.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Tranquil Garden Bouquet</name>
+				<picture>fresh_product_images/tranquil_garden.png</picture>
+				<price>43.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Tranquility Vase Arrangement</name>
+				<picture>fresh_product_images/tranquility_vase.png</picture>
+				<price>49.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Passion Vase Arrangement</name>
+				<picture>fresh_product_images/passion_vase.png</picture>
+				<price>49.99</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Inspire Floral Arrangement</name>
+				<picture>fresh_product_images/inspire_floral.png</picture>
+				<price>54.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Day Dream Vase Arrangement</name>
+				<picture>fresh_product_images/day_dream_vase.png</picture>
+				<price>49.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Autumn Joy Arrangement</name>
+				<picture>fresh_product_images/autumn_joy.png</picture>
+				<price>54.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Autumn Allure Bouquet</name>
+				<picture>fresh_product_images/autumn_allure.png</picture>
+				<price>43.99</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Rustic Fall Bouquet</name>
+				<picture>fresh_product_images/rustic_fall.png</picture>
+				<price>45.99</price>
+				<quantity>4</quantity>
+			</item>
+		</category>
+
+		<category name="salsa_dip">
+			<item>
+				<name>Medium Salsa con Queso Dip</name>
+				<picture>fresh_product_images/medium_salsa_con_queso.png</picture>
+				<price>4.43</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Mango Salsa</name>
+				<picture>fresh_product_images/mango_salsa.png</picture>
+				<price>3.59</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Chipotle Salsa</name>
+				<picture>fresh_product_images/chipotle_salsa.png</picture>
+				<price>5.06</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Chunky Salsa Medium</name>
+				<picture>fresh_product_images/chunky_salsa_medium.png</picture>
+				<price>3.02</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Tatemada Salsa</name>
+				<picture>fresh_product_images/tatemada_salsa.png</picture>
+				<price>5.06</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Medium Restaurant Style Salsa Dip</name>
+				<picture>fresh_product_images/medium_restaurant_style_salsa_dip.png</picture>
+				<price>3.59</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Thick and Chunky Mild Salsa</name>
+				<picture>fresh_product_images/thick_and_chunky_mild_salsa.png</picture>
+				<price>2.06</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Thick and Chunky Medium Salsa</name>
+				<picture>fresh_product_images/thick_and_chunky_medium_salsa.png</picture>
+				<price>2.06</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Fire Roasted Salsa</name>
+				<picture>fresh_product_images/fire_roasted_salsa.png</picture>
+				<price>5.06</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Medium Guacamole Salsa</name>
+				<picture>fresh_product_images/medium_guacamole_salsa.png</picture>
+				<price>3.32</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Medium Queso Blanco Dip with Jalapenos</name>
+				<picture>fresh_product_images/medium_queso_blanco_dip_with_jalapenos.png</picture>
+				<price>3.49</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Medium Gourmet Salsa</name>
+				<picture>fresh_product_images/medium_gourmet_salsa.png</picture>
+				<price>4.95</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Queso con Salsa Dip</name>
+				<picture>fresh_product_images/queso_con_salsa_dip.png</picture>
+				<price>3.49</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Pineapple Habanero Salsa</name>
+				<picture>fresh_product_images/pineapple_habanero_salsa.png</picture>
+				<price>2.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Green Mexican Medium Salsa</name>
+				<picture>fresh_product_images/green_mexican_medium_salsa.png</picture>
+				<price>2.28</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Black Bean Salsa</name>
+				<picture>fresh_product_images/black_bean_salsa.png</picture>
+				<price>6.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Black Bean and Corn Salsa</name>
+				<picture>fresh_product_images/black_bean_and_corn_salsa.png</picture>
+				<price>4.59</price>
+				<quantity>5</quantity>
+			</item>
+		</category>
+
+		<category name="season_produce">
+			<item>
+				<name>Beet</name>
+				<picture>fresh_product_images/beet.png</picture>
+				<price>2.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Brussel Sprout</name>
+				<picture>fresh_product_images/brussel_sprout.png</picture>
+				<price>3.00</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Cabbage</name>
+				<picture>fresh_product_images/cabbage.png</picture>
+				<price>1.73</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Cauliflower</name>
+				<picture>fresh_product_images/cauliflower.png</picture>
+				<price>2.49</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Celery</name>
+				<picture>fresh_product_images/celery.png</picture>
+				<price>1.99</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Collard Green</name>
+				<picture>fresh_product_images/collard_green.png</picture>
+				<price>1.49</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Cranberry</name>
+				<picture>fresh_product_images/cranberry.png</picture>
+				<price>1.50</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Garlic</name>
+				<picture>fresh_product_images/garlic.png</picture>
+				<price>0.50</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Ginger</name>
+				<picture>fresh_product_images/ginger.png</picture>
+				<price>3.59</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Green beans</name>
+				<picture>fresh_product_images/green_beans.png</picture>
+				<price>2.19</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Kale</name>
+				<picture>fresh_product_images/kale.png</picture>
+				<price>2.29</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Kiwi Fruit</name>
+				<picture>fresh_product_images/kiwi_fruit.png</picture>
+				<price>4.99</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Lemon</name>
+				<picture>fresh_product_images/lemon.png</picture>
+				<price>3.99</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Lime</name>
+				<picture>fresh_product_images/lime.png</picture>
+				<price>4.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Mango</name>
+				<picture>fresh_product_images/mango.png</picture>
+				<price>1.25</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Mushroom</name>
+				<picture>fresh_product_images/mushroom.png</picture>
+				<price>1.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Parsnip</name>
+				<picture>fresh_product_images/parsnip.png</picture>
+				<price>2.29</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Pear</name>
+				<picture>fresh_product_images/pear.png</picture>
+				<price>1.79</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Peas</name>
+				<picture>fresh_product_images/peas.png</picture>
+				<price>3.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Pumpkin</name>
+				<picture>fresh_product_images/pumpkin.png</picture>
+				<price>6.00</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Radish</name>
+				<picture>fresh_product_images/radish.png</picture>
+				<price>1.89</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Rutabaga</name>
+				<picture>fresh_product_images/rutabaga.png</picture>
+				<price>1.29</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Spinach</name>
+				<picture>fresh_product_images/spinach.png</picture>
+				<price>2.89</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Sweet Potato</name>
+				<picture>fresh_product_images/sweet_potato.png</picture>
+				<price>2.19</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Yam</name>
+				<picture>fresh_product_images/yam.png</picture>
+				<price>0.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Red Chard</name>
+				<picture>fresh_product_images/red_chard.png</picture>
+				<price>2.29</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Turnip</name>
+				<picture>fresh_product_images/turnip.png</picture>
+				<price>1.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Squash</name>
+				<picture>fresh_product_images/squash.png</picture>
+				<price>1.49</price>
+				<quantity>3</quantity>
+			</item>
+		</category>
+
+		<category name="new_items">
+			<item>
+				<name>Ground Sausage Chorizo</name>
+				<picture>fresh_product_images/ground_sausage_chorizo.png</picture>
+				<price>3.99</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Strip Steak</name>
+				<picture>fresh_product_images/strip_steak.png</picture>
+				<price>14.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Strawberry Cultured Creame Yogurt</name>
+				<picture>fresh_product_images/strawberry_cultured_creame_yogurt.png</picture>
+				<price>1.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Vanilla Bean Cultured Creame Yogurt</name>
+				<picture>fresh_product_images/vanilla_bean_cultured_creame_yogurt.png</picture>
+				<price>1.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Coffee Cultured Creame Yogurt</name>
+				<picture>fresh_product_images/coffee_cultured_creame_yogurt.png</picture>
+				<price>1.99</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Black Cherry Cultured Creame Yogurt</name>
+				<picture>fresh_product_images/black_cherry_cultured_creame_yogurt.png</picture>
+				<price>1.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Lemon Cultured Creame Yogurt</name>
+				<picture>fresh_product_images/lemon_cultured_creame_yogurt.png</picture>
+				<price>1.99</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Taco Meat</name>
+				<picture>fresh_product_images/taco_meat.png</picture>
+				<price>3.99</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Peaches and Cream Greek Yogurt Drink</name>
+				<picture>fresh_product_images/peaches_and_cream_greek_yogurt_drink.png</picture>
+				<price>2.49</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Strawberry Cheesecake Greek Yogurt Drink</name>
+				<picture>fresh_product_images/strawberry_cheesecake_greek_yogurt_drink.png</picture>
+				<price>2.49</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Mixed Berry Greek Yogurt Drink</name>
+				<picture>fresh_product_images/mixed_berry_greek_yogurt_drink.png</picture>
+				<price>2.49</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Milk and Cookies Greek Yogurt Drink</name>
+				<picture>fresh_product_images/milk_and_cookies_greek_yogurt_drink.png</picture>
+				<price>2.49</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Tropical Splash Flavored Sparkling Bottled Water</name>
+				<picture>fresh_product_images/tropical_splash_flavored_sparkling_bottled_water.png</picture>
+				<price>2.69</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Forest Blackberry Flavored Sparkling Bottled Water</name>
+				<picture>fresh_product_images/forest_blackberry_flavored_sparkling_bottled_water.png</picture>
+				<price>2.69</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Citrus Medley Flavored Sparkling Bottled Water</name>
+				<picture>fresh_product_images/citrus_medley_flavored_sparkling_bottled_water.png</picture>
+				<price>2.69</price>
+				<quantity>7</quantity>
+			</item>
+		</category>
+
+		<category name="rollbacks">
+			<item>
+				<name>Seasonal Fruit Tray</name>
+				<picture>fresh_product_images/seasonal_fruit_tray.png</picture>
+				<price>10.12</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Pineapple Chunks</name>
+				<picture>fresh_product_images/pineapple_chunk.png</picture>
+				<price>9.12</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Apple and Grape Tray with Caramel</name>
+				<picture>fresh_product_images/apple_and_grape_tray_with_caramel.png</picture>
+				<price>11.97</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Cantaloupe</name>
+				<picture>fresh_product_images/cantaloupe.png</picture>
+				<price>3.12</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Watermelon Chunk</name>
+				<picture>fresh_product_images/watermelon_chunk.png</picture>
+				<price>4.58</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Spinach</name>
+				<picture>fresh_product_images/spinach.png</picture>
+				<price>1.98</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Carrot Chips</name>
+				<picture>fresh_product_images/carrot_chips.png</picture>
+				<price>1.77</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Sliced White Mushrooms</name>
+				<picture>fresh_product_images/sliced_white_mushrooms.png</picture>
+				<price>1.68</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Peeled Sliced Apples</name>
+				<picture>fresh_product_images/peeled_sliced_apples.png</picture>
+				<price>4.67</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Diced Yellow Onions</name>
+				<picture>fresh_product_images/diced_yellow_onions.png</picture>
+				<price>2.88</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Sweet Potato Cubes</name>
+				<picture>fresh_product_images/sweet_potato_cubes.png</picture>
+				<price>3.28</price>
+				<quantity>0</quantity>
+			</item>
+		</category>
+	</type>
+
+	<type name="frozen">
+		<category name="breakfast">
+			<item>
+				<name>Homestyle Original Frozen Waffles</name>
+				<picture>frozen_images/homestyle_original_frozen_waffles.png</picture>
+				<price>3.29</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Buttermilk Frozen Waffles</name>
+				<picture>frozen_images/buttermilk_frozen_waffles.png</picture>
+				<price>3.29</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Cinnamon Frozen French Toast Sticks</name>
+				<picture>frozen_images/cinnamon_frozen_french_toast_sticks.png</picture>
+				<price>3.29</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Sausage Egg and Cheese Croissant Frozen Breakfast Sandwiches</name>
+				<picture>frozen_images/sausage_egg_cheese_croissant_frozen_breakfast_sandwiches.png</picture>
+				<price>13.29</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Original Frozen French Toast Sticks</name>
+				<picture>frozen_images/original_frozen_french_toast_sticks.png</picture>
+				<price>3.29</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Buttermilk Frozen Pancakes</name>
+				<picture>frozen_images/buttermilk_frozen_pancakes.png</picture>
+				<price>3.39</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Blueberry Frozen Waffles</name>
+				<picture>frozen_images/blueberry_frozen_waffles.png</picture>
+				<price>3.29</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Minis Cinnamon Toast Frozen Waffle Bites</name>
+				<picture>frozen_images/minis_cinnamon_toast_frozen_waffle_bites.png</picture>
+				<price>3.29</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Strawberry Toaster Strudel Frozen Pastries</name>
+				<picture>frozen_images/strawberry_toaster_strudel_frozen_pastries.png</picture>
+				<price>3.49</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Chocolatey Chip Frozen Waffles</name>
+				<picture>frozen_images/chocolatey_chip_frozen_waffles.png</picture>
+				<price>3.29</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Buttermilk Waffles</name>
+				<picture>frozen_images/buttermilk_waffles.png</picture>
+				<price>2.39</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Bacon Egg and Cheese Frozen Breakfast Bowl</name>
+				<picture>frozen_images/bacon_egg_cheese_frozen_breakfast_bowl.png</picture>
+				<price>3.49</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Blueberry Waffles</name>
+				<picture>frozen_images/blueberry_waffles.png</picture>
+				<price>2.39</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Sausage Egg and Cheese Frozen Breakfast Bowl</name>
+				<picture>frozen_images/sausage_egg_cheese_frozen_breakfast_bowl.png</picture>
+				<price>3.49</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Sausage and Gravy Breakfast Bowl</name>
+				<picture>frozen_images/sausage_gravy_breakfast_bowl.png</picture>
+				<price>3.49</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Apple Toaster Strudel Frozen Pastries</name>
+				<picture>frozen_images/apple_toaster_strudel_frozen_pastries.png</picture>
+				<price>3.49</price>
+				<quantity>5</quantity>
+			</item>
+		</category>
+
+		<category name="dessert">
+			<item>
+				<name>Vanilla Bean Light Ice Cream</name>
+				<picture>frozen_images/vanilla_bean_light_ice_cream.png</picture>
+				<price>5.79</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Sea Salt Caramel Light Ice Cream</name>
+				<picture>frozen_images/sea_salt_caramel_light_ice_cream.png</picture>
+				<price>5.79</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Chocolate Chip Cookie Dough Light Ice Cream</name>
+				<picture>frozen_images/chocolate_chip_cookie_dough_light_ice_cream.png</picture>
+				<price>5.79</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Peanut Butter Cup Light Ice Cream</name>
+				<picture>frozen_images/peanut_butter_cup_light_ice_cream.png</picture>
+				<price>5.79</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Chocolate Ganache Lava Cakes</name>
+				<picture>frozen_images/chocolate_ganache_lava_cakes.png</picture>
+				<price>6.79</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Rustic Triple Berry Tarts</name>
+				<picture>frozen_images/rustic_triple_berry_tarts.png</picture>
+				<price>6.79</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Pineapple Upside Down Cakes</name>
+				<picture>frozen_images/pineapple_upside_down_cakes.png</picture>
+				<price>6.79</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Assorted Macarons</name>
+				<picture>frozen_images/assorted_macarons.png</picture>
+				<price>7.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Single Desserts Chocolate Creme Pie Slices</name>
+				<picture>frozen_images/single_desserts_chocolate_creme_pie_slices.png</picture>
+				<price>2.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Key Lime Pie Singles</name>
+				<picture>frozen_images/key_lime_pie_singles.png</picture>
+				<price>2.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Original Whipped Cheesecake Slices</name>
+				<picture>frozen_images/original_whipped_cheesecake_slices.png</picture>
+				<price>2.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Turtle Creme Pie Slices</name>
+				<picture>frozen_images/turtle_creme_pie_slices.png</picture>
+				<price>2.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Signatures Lemon Creme Pie Slices</name>
+				<picture>frozen_images/signatures_lemon_creme_pie_slices.png</picture>
+				<price>2.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Cookies and Creme Pie Slices</name>
+				<picture>frozen_images/cookies_and_creme_pie_slices.png</picture>
+				<price>2.99</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Premium Frozen Key Lime Pie</name>
+				<picture>frozen_images/premium_frozen_key_lime_pie.png</picture>
+				<price>7.99</price>
+				<quantity>5</quantity>
+			</item>
+		</category>
+
+		<category name="meals">
+			<item>
+				<name>Chicken Pot Pie Frozen Meal</name>
+				<picture>frozen_images/chicken_pot_pie_frozen_meal.png</picture>
+				<price>1.25</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Turkey Pot Pie</name>
+				<picture>frozen_images/turkey_pot_pie.png</picture>
+				<price>1.25</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Salisbury Steak Frozen Meal</name>
+				<picture>frozen_images/salisbury_steak_frozen_meal.png</picture>
+				<price>1.79</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Family Size Salisbury Steaks and Brown Gravy Frozen Meal</name>
+				<picture>frozen_images/family_size_salisbury_steaks_brown_gravy_frozen_meal.png</picture>
+				<price>4.19</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Beef Pot Pie</name>
+				<picture>frozen_images/beef_pot_pie.png</picture>
+				<price>1.25</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Aged Cheddar Cheesy Chicken and Rice Bowl Frozen Meal</name>
+				<picture>frozen_images/aged_cheddar_cheesy_chicken_rice_bowl_frozen_meal.png</picture>
+				<price>3.00</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Tender Ginger Beef and Broccoli Bowl Frozen Meal</name>
+				<picture>frozen_images/tender_ginger_beef_broccoli_bowl_frozen_meal.png</picture>
+				<price>3.00</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Country Fried Chicken and Gravy Frozen Meal</name>
+				<picture>frozen_images/country_fried_chicken_gravy_frozen_meal.png</picture>
+				<price>3.50</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Meat Loaf and Gravy Frozen Meal</name>
+				<picture>frozen_images/meat_loaf_gravy_frozen_meal.png</picture>
+				<price>3.50</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Fettuccini with Chicken and Broccoli Frozen Meal</name>
+				<picture>frozen_images/fettuccini_with_chicken_broccoli_frozen_meal.png</picture>
+				<price>3.50</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Fettuccine Alfredo with Chicken and Broccoli Frozen Meal</name>
+				<picture>frozen_images/fettuccine_alfredo_with_chicken_broccoli_frozen_meal.png</picture>
+				<price>1.33</price>
+				<quantity>6</quantity>
+			</item>
+		</category>
+
+		<category name="pizza">
+			<item>
+				<name>Classic Crust Pepperoni Frozen Pizza</name>
+				<picture>frozen_images/classic_crust_pepperoni_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Classic Crust Four Cheese Frozen Pizza</name>
+				<picture>frozen_images/classic_crust_four_cheese_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Brick Oven Crust Pepperoni Frozen Pizza</name>
+				<picture>frozen_images/brick_oven_crust_pepperoni_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Brick Oven Crust Cheese Trio Frozen Pizza</name>
+				<picture>frozen_images/brick_oven_crust_cheese_trio_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Classic Crust Special Deluxe Frozen Pizza</name>
+				<picture>frozen_images/classic_crust_special_deluxe_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Classic Crust Four Meat Frozen Pizza</name>
+				<picture>frozen_images/classic_crust_four_meat_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Deep Dish Singles Pepperoni Frozen Pizzas</name>
+				<picture>frozen_images/deep_dish_singles_pepperoni_frozen_pizzas.png</picture>
+				<price>3.99</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Classic Crust Supreme Frozen Pizza</name>
+				<picture>frozen_images/classic_crust_supreme_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Thin and Crispy Crust Pepperoni Frozen Pizza</name>
+				<picture>frozen_images/thin_crispy_crust_pepperoni_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Singles French Bread Pepperoni Frozen Pizzas</name>
+				<picture>frozen_images/singles_french_bread_pepperoni_frozen_pizzas.png</picture>
+				<price>3.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Deep Dish Singles Four Cheese Frozen Pizzas</name>
+				<picture>frozen_images/deep_dish_singles_four_cheese_frozen_pizzas.png</picture>
+				<price>3.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Classic Crust Sausage and Pepperoni Frozen Pizza</name>
+				<picture>frozen_images/classic_crust_sausage_pepperoni_frozen_pizza.png</picture>
+				<price>4.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Naturally Rising Crust Canadian Style Bacon and Pineapple Frozen Pizza</name>
+				<picture>frozen_images/naturally_rising_crust_canadian_style_bacon_pineapple_frozen_pizza.png</picture>
+				<price>5.99</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Naturally Rising Crust Pepperoni Frozen Pizza</name>
+				<picture>frozen_images/naturally_rising_crust_pepperoni_frozen_pizza.png</picture>
+				<price>5.99</price>
+				<quantity>8</quantity>
+			</item>
+		</category>
+
+		<category name="meat">
+			<item>
+				<name>Frozen Salmon Burgers</name>
+				<picture>frozen_images/frozen_salmon_burgers.png</picture>
+				<price>7.49</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Fully Cooked Homestyle Frozen Meatballs</name>
+				<picture>frozen_images/fully_cooked_homestyle_frozen_meatballs.png</picture>
+				<price>4.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Flame Broiled Homestyle Frozen Meatballs</name>
+				<picture>frozen_images/flame_broiled_homestyle_frozen_meatballs.png</picture>
+				<price>3.69</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Tail-On Peeled and Deveined Medium Frozen Cooked Shrimp</name>
+				<picture>frozen_images/tail_on_peeled_deveined_medium_frozen_cooked_shrimp.png</picture>
+				<price>6.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Wild Caught Crunchy Popcorn Shrimp</name>
+				<picture>frozen_images/wild_caught_crunchy_popcorn_shrimp.png</picture>
+				<price>3.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>100% Pure Ground Beef Quarter Pound Burgers</name>
+				<picture>frozen_images/100_pure_ground_beef_quarter_pound_burgers.png</picture>
+				<price>9.99</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Wild Caught Cooked and Peeled Frozen Salad Shrimp</name>
+				<picture>frozen_images/wild_caught_cooked_peeled_frozen_salad_shrimp.png</picture>
+				<price>5.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Frozen Grilled Chicken Breast Strips</name>
+				<picture>frozen_images/frozen_grilled_chicken_breast_strips.png</picture>
+				<price>7.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Grilled Chicken Breast Dices</name>
+				<picture>frozen_images/grilled_chicken_breast_dices.png</picture>
+				<price>7.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Fully Cooked Chicken Nuggets</name>
+				<picture>frozen_images/fully_cooked_chicken_nuggets.png</picture>
+				<price>5.99</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Fully Cooked Chicken Patties</name>
+				<picture>frozen_images/fully_cooked_chicken_patties.png</picture>
+				<price>5.99</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Fully Cooked Honey Battered Chicken Breast Tenders</name>
+				<picture>frozen_images/fully_cooked_honey_battered_chicken_breast_tenders.png</picture>
+				<price>9.99</price>
+				<quantity>6</quantity>
+			</item>
+		</category>
+
+		<category name="snacks">
+			<item>
+				<name>Frozen Snack Premium Pepperoni Pizza Frozen Sandwiches</name>
+				<picture>frozen_images/frozen_snack_premium_pepperoni_pizza_frozen_sandwiches.png</picture>
+				<price>1.99</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Frozen Snack Premium Pepperoni Pizza Crispy Crust Frozen Sandwiches</name>
+				<picture>frozen_images/frozen_snack_premium_pepperoni_pizza_crispy_crust_frozen_sandwiches.png</picture>
+				<price>1.99</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Frozen Snack Philly Steak and Cheese Seasoned Crust Frozen Sandwiches</name>
+				<picture>frozen_images/frozen_snack_philly_steak_cheese_seasoned_crust_frozen_sandwiches.png</picture>
+				<price>1.99</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Frozen Snack High Protein Steak and Cheddar Crispy Buttery Crust Frozen Sandwiches</name>
+				<picture>frozen_images/frozen_snack_high_protein_steak_cheddar_crispy_buttery_crust_frozen_sandwiches.png</picture>
+				<price>1.99</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Hickory Ham and Cheddar Crispy Buttery Crust Frozen Sandwiches</name>
+				<picture>frozen_images/hickory_ham_cheddar_crispy_buttery_crust_frozen_sandwiches.png</picture>
+				<price>1.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Frozen Snack Italian Style Meatballs and Mozzarella Garlic Buttery Crust Frozen Sandwiches</name>
+				<picture>frozen_images/frozen_snack_italian_style_meatballs_mozzarella_garlic_buttery_crust_frozen_sandwiches.png</picture>
+				<price>1.99</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Frozen Snack Four Cheese Pizza Frozen Sandwiches</name>
+				<picture>frozen_images/frozen_snack_four_cheese_pizza_frozen_sandwiches.png</picture>
+				<price>1.99</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Chicken and Cheese Large Flour Taquitos Frozen Snacks</name>
+				<picture>frozen_images/chicken_cheese_large_flour_taquitos_frozen_snacks.png</picture>
+				<price>6.49</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>White Meat Chicken Corn Taquitos Frozen Snacks</name>
+				<picture>frozen_images/white_meat_chicken_corn_taquitos_frozen_snacks.png</picture>
+				<price>6.49</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Beef Corn Taquitos Frozen Snacks</name>
+				<picture>frozen_images/beef_corn_taquitos_frozen_snacks.png</picture>
+				<price>6.49</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Loaded Potato Bites</name>
+				<picture>frozen_images/loaded_potato_bites.png</picture>
+				<price>8.99</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Bavarian Style Soft Pretzel Sticks</name>
+				<picture>frozen_images/bavarian_style_soft_pretzel_sticks.png</picture>
+				<price>8.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Loaded Cheddar and Bacon Potato Skins Frozen Snacks</name>
+				<picture>frozen_images/loaded_cheddar_bacon_potato_skins_frozen_snacks.png</picture>
+				<price>7.99</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Spinach and Artichoke Cheese Dip Value Pack Frozen Snack</name>
+				<picture>frozen_images/spinach_artichoke_cheese_dip_value_pack_frozen_snack.png</picture>
+				<price>13.49</price>
+				<quantity>7</quantity>
+			</item>
+		</category>
+
+		<category name="rollbacks">
+			<item>
+				<name>Frozen Raw Extra Small Peeled and Deveined Wild Caught Gulf Shrimp</name>
+				<picture>frozen_images/frozen_raw_extra_small_peeled_deveined_wild_caught_gulf_shrimp.png</picture>
+				<price>11.94</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Frozen Wild Gulf Large Raw Shrimp Peeled and Deveined</name>
+				<picture>frozen_images/frozen_wild_gulf_large_raw_shrimp_peeled_and_deveined.png</picture>
+				<price>6.98</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Frozen Swai Fillets</name>
+				<picture>frozen_images/frozen_swai_fillets.png</picture>
+				<price>8.74</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Frozen Skinless and Boneless Swai Fillets</name>
+				<picture>frozen_images/frozen_skinless_boneless_swai_fillets.png</picture>
+				<price>12.72</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Frozen Raw Medium Peeled Deveined Tail-On Shrimp</name>
+				<picture>frozen_images/frozen_raw_medium_peeled_deveined_tail_on_shrimp.png</picture>
+				<price>5.47</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Frozen All Natural Wild Alaskan Sockeye Salmon</name>
+				<picture>frozen_images/frozen_all_natural_wild_alaskan_sockeye_salmon.png</picture>
+				<price>11.23</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Frozen Cooked Jonah Crab Claws and Arms</name>
+				<picture>frozen_images/frozen_cooked_jonah_crab_claws_arms.png</picture>
+				<price>25.78</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Frozen Wild Caught Pacific Cod Fillets</name>
+				<picture>frozen_images/frozen_wild_caught_pacific_cod_fillets.png</picture>
+				<price>7.96</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Wild Caught Flounder Skinless Fillets</name>
+				<picture>frozen_images/wild_caught_flounder_skinless_fillets.png</picture>
+				<price>10.78</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Frozen Ahi Tuna Steaks</name>
+				<picture>frozen_images/frozen_ahi_tuna_steaks.png</picture>
+				<price>6.42</price>
+				<quantity>7</quantity>
+			</item>
+		</category>
+
+	</type>
+
+	<type name="pantry">
+
+		<category name="goods">
+			<item>
+				<name>Beef Lasagna</name>
+				<picture>pantry_images/beef_lasagna.png</picture>
+				<price>1.12</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Mini Ravioli</name>
+				<picture>pantry_images/mini_ravioli.png</picture>
+				<price>1.12</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Chunk Light Tuna in Water</name>
+				<picture>pantry_images/chunk_light_tuna_in_water.png</picture>
+				<price>3.52</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Sloppy Joe Sauce</name>
+				<picture>pantry_images/sloppy_joe_sauce.png</picture>
+				<price>1.34</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Beefaroni</name>
+				<picture>pantry_images/beefaroni.png</picture>
+				<price>1.12</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Tomato Sauce</name>
+				<picture>pantry_images/tomato_sauce.png</picture>
+				<price>0.48</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Canned Pasta</name>
+				<picture>pantry_images/canned_pasta.png</picture>
+				<price>3.88</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Canned Sausage</name>
+				<picture>pantry_images/canned_sausage.png</picture>
+				<price>4.68</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Vienna Sausage in Chicken Broth</name>
+				<picture>pantry_images/vienna_sausage_in_chicken_broth.png</picture>
+				<price>0.94</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Baked Beans</name>
+				<picture>pantry_images/baked_beans.png</picture>
+				<price>2.48</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Hot Dog Chili Sauce</name>
+				<picture>pantry_images/hot_dog_chili_sauce.png</picture>
+				<price>0.74</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Corned Beef Hash</name>
+				<picture>pantry_images/corned_beef_hash.png</picture>
+				<price>2.96</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Canned Pasta with Meatballs</name>
+				<picture>pantry_images/canned_pasta_with_meatballs.png</picture>
+				<price>1.23</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Beef Ravioli</name>
+				<picture>pantry_images/beef_ravioli.png</picture>
+				<price>1.12</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Seasoned Italian Green Beans</name>
+				<picture>pantry_images/seasoned_italian_green_beans.png</picture>
+				<price>1.94</price>
+				<quantity>5</quantity>
+			</item>
+		</category>
+
+		<category name="vegetable">
+			<item>
+				<name>Canned Corn</name>
+				<picture>pantry_images/canned_corn.png</picture>
+				<price>0.64</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Canned Green Beans</name>
+				<picture>pantry_images/canned_green_beans.png</picture>
+				<price>0.64</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Sweet Peas</name>
+				<picture>pantry_images/sweet_peas.png</picture>
+				<price>0.64</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Canned Carrots</name>
+				<picture>pantry_images/canned_carrots.png</picture>
+				<price>0.96</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Mixed Vegetables</name>
+				<picture>pantry_images/mixed_vegetables.png</picture>
+				<price>0.96</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Canned French Style Green Beans</name>
+				<picture>pantry_images/canned_french_style_green_beans.png</picture>
+				<price>0.64</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Pickled Sliced Beets</name>
+				<picture>pantry_images/pickled_sliced_beets.png</picture>
+				<price>1.16</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Canned Diced Potatoes</name>
+				<picture>pantry_images/canned_diced_potatoes.png</picture>
+				<price>0.96</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Whole New Potatoes</name>
+				<picture>pantry_images/whole_new_potatoes.png</picture>
+				<price>0.96</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Cut Green Beans</name>
+				<picture>pantry_images/cut_green_beans.png</picture>
+				<price>1.16</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Peas and Diced Carrots</name>
+				<picture>pantry_images/peas_diced_carrots.png</picture>
+				<price>0.67</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Asparagus Cut Spears</name>
+				<picture>pantry_images/asparagus_cut_spears.png</picture>
+				<price>1.78</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Lima Beans</name>
+				<picture>pantry_images/lima_beans.png</picture>
+				<price>6.79</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Canned Leaf Spinach</name>
+				<picture>pantry_images/canned_leaf_spinach.png</picture>
+				<price>1.32</price>
+				<quantity>1</quantity>
+			</item>
+		</category>
+
+		<category name="condiments">
+			<item>
+				<name>Ketchup and Seemingly Ranch</name>
+				<picture>pantry_images/ketchup_and_seemingly_ranch.png</picture>
+				<price>4.12</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Yellow Mustard</name>
+				<picture>pantry_images/yellow_mustard.png</picture>
+				<price>0.98</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Tomato Ketchup</name>
+				<picture>pantry_images/tomato_ketchup.png</picture>
+				<price>4.76</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Original Barbecue Sauce</name>
+				<picture>pantry_images/original_barbecue_sauce.png</picture>
+				<price>2.28</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Original Syrup</name>
+				<picture>pantry_images/original_syrup.png</picture>
+				<price>2.36</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Sweet Relish</name>
+				<picture>pantry_images/sweet_relish.png</picture>
+				<price>1.88</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Classic Yellow Mustard</name>
+				<picture>pantry_images/classic_yellow_mustard.png</picture>
+				<price>2.72</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Honey Barbecue Sauce</name>
+				<picture>pantry_images/honey_barbecue_sauce.png</picture>
+				<price>2.28</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Dill Pickle Spears</name>
+				<picture>pantry_images/dill_pickle_spears.png</picture>
+				<price>2.73</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Medium Pitted Black Olives</name>
+				<picture>pantry_images/medium_pitted_black_olives.png</picture>
+				<price>1.94</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Spicy Brown Mustard</name>
+				<picture>pantry_images/spicy_brown_mustard.png</picture>
+				<price>1.50</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Mayonnaise Real Mayo</name>
+				<picture>pantry_images/mayonnaise_real_mayo.png</picture>
+				<price>3.98</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Honey</name>
+				<picture>pantry_images/honey.png</picture>
+				<price>3.94</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Mayonnaise</name>
+				<picture>pantry_images/mayonnaise.png</picture>
+				<price>2.12</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Bbq Sauce Honey</name>
+				<picture>pantry_images/bbq_sauce_honey.png</picture>
+				<price>1.48</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Dijon Mustard</name>
+				<picture>pantry_images/dijon_mustard.png</picture>
+				<price>1.50</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Original Hot Sauce</name>
+				<picture>pantry_images/original_hot_sauce.png</picture>
+				<price>2.44</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>ChocSyrup</name>
+				<picture>pantry_images/chocsyrup.png</picture>
+				<price>3.27</price>
+				<quantity>6</quantity>
+			</item>
+		</category>
+
+		<category name="peanut_butter_spread">
+			<item>
+				<name>Creamy Peanut Butter</name>
+				<picture>pantry_images/creamy_peanut_butter.png</picture>
+				<price>2.18</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Hazelnut Spread</name>
+				<picture>pantry_images/hazelnut_spread.png</picture>
+				<price>2.73</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Honey Roasted Creamy Peanut and Honey Spread</name>
+				<picture>pantry_images/honey_roasted_creamy_peanut_and_honey_spread.png</picture>
+				<price>1.84</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Natural Smooth Peanut Butter</name>
+				<picture>pantry_images/natural_smooth_peanut_butter.png</picture>
+				<price>7.12</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Peanut Butter and Grape Jelly Stripes</name>
+				<picture>pantry_images/peanut_butter_and_grape_jelly_stripes.png</picture>
+				<price>3.94</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Hazelnut Spread with Cocoa</name>
+				<picture>pantry_images/hazelnut_spread_with_cocoa.png</picture>
+				<price>9.87</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Plain Walnut Butter with Sea Salt</name>
+				<picture>pantry_images/plain_walnut_butter_with_sea_salt.png</picture>
+				<price>6.97</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Cookie Butter</name>
+				<picture>pantry_images/cookie_butter.png</picture>
+				<price>5.96</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Vanilla Almond Butter</name>
+				<picture>pantry_images/vanilla_almond_butter.png</picture>
+				<price>15.99</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Sunflower Butter</name>
+				<picture>pantry_images/sunflower_butter.png</picture>
+				<price>15.25</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Raw Butter Coconut</name>
+				<picture>pantry_images/raw_butter_coconut.png</picture>
+				<price>24.99</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Pumpkin Seed Peanut Butter</name>
+				<picture>pantry_images/pumpkin_seed_peanut_butter.png</picture>
+				<price>6.24</price>
+				<quantity>5</quantity>
+			</item>
+		</category>
+
+		<category name="pasta_pizza">
+			<item>
+				<name>Penne Pasta</name>
+				<picture>pantry_images/penne_pasta.png</picture>
+				<price>0.98</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Spaghetti</name>
+				<picture>pantry_images/spaghetti.png</picture>
+				<price>0.98</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Fettuccine</name>
+				<picture>pantry_images/fettuccine.png</picture>
+				<price>0.98</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Marinara Pasta Sauce</name>
+				<picture>pantry_images/marinara_pasta_sauce.png</picture>
+				<price>1.62</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Shells Pasta</name>
+				<picture>pantry_images/shells_pasta.png</picture>
+				<price>0.98</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Angel Hair</name>
+				<picture>pantry_images/angel_hair.png</picture>
+				<price>0.98</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Elbows Pasta</name>
+				<picture>pantry_images/elbows_pasta.png</picture>
+				<price>0.98</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Bowties Pasta</name>
+				<picture>pantry_images/bowties_pasta.png</picture>
+				<price>0.98</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Rotini Pasta</name>
+				<picture>pantry_images/rotini_pasta.png</picture>
+				<price>0.98</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Thin Spaghetti</name>
+				<picture>pantry_images/thin_spaghetti.png</picture>
+				<price>0.98</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Homemade Pizza Kit</name>
+				<picture>pantry_images/homemade_pizza_kit.png</picture>
+				<price>3.68</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Original Macaroni and Cheese</name>
+				<picture>pantry_images/original_macaroni_cheese.png</picture>
+				<price>0.58</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Pepperoni Pizza Topping</name>
+				<picture>pantry_images/pepperoni_pizza_topping.png</picture>
+				<price>3.94</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Pepperoni Pizza</name>
+				<picture>pantry_images/pepperoni_pizza.png</picture>
+				<price>7.97</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Five Cheese Pizza</name>
+				<picture>pantry_images/five_cheese_pizza.png</picture>
+				<price>5.97</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Meat Trio Pizza</name>
+				<picture>pantry_images/meat_trio_pizza.png</picture>
+				<price>5.87</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Five Cheese Breadsticks</name>
+				<picture>pantry_images/five_cheese_breadsticks.png</picture>
+				<price>4.97</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Cheese-Stuffed Crust Pepperoni Pizza</name>
+				<picture>pantry_images/cheese_stuffed_crust_pepperoni_pizza.png</picture>
+				<price>9.98</price>
+				<quantity>3</quantity>
+			</item>
+		</category>
+
+		<category name="rollbacks">
+			<item>
+				<name>Flour</name>
+				<picture>pantry_images/flour.png</picture>
+				<price>0.63</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Sugar</name>
+				<picture>pantry_images/sugar.png</picture>
+				<price>0.45</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Rice</name>
+				<picture>pantry_images/rice.png</picture>
+				<price>1.20</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Pasta</name>
+				<picture>pantry_images/pasta.png</picture>
+				<price>1.00</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Olive Oil</name>
+				<picture>pantry_images/olive_oil.png</picture>
+				<price>4.80</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Canned Tomatoes</name>
+				<picture>pantry_images/canned_tomatoes.png</picture>
+				<price>1.50</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Coffee</name>
+				<picture>pantry_images/coffee.png</picture>
+				<price>6.40</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Tea Bags</name>
+				<picture>pantry_images/tea_bags.png</picture>
+				<price>5.76</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Salt</name>
+				<picture>pantry_images/salt.png</picture>
+				<price>0.80</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Cereal</name>
+				<picture>pantry_images/cereal.png</picture>
+				<price>3.20</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Honey</name>
+				<picture>pantry_images/honey.png</picture>
+				<price>4.80</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Peanut Butter</name>
+				<picture>pantry_images/peanut_butter.png</picture>
+				<price>2.40</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Jelly</name>
+				<picture>pantry_images/jelly.png</picture>
+				<price>3.60</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Canned Beans</name>
+				<picture>pantry_images/canned_beans.png</picture>
+				<price>1.20</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Canned Soup</name>
+				<picture>pantry_images/canned_soup.png</picture>
+				<price>2.40</price>
+				<quantity>4</quantity>
+			</item>
+		</category>
+
+	</type>
+
+	<type name="breakfast_cereal">
+
+		<category name="cereal">
+			<item>
+				<name>Breakfast Cereal with Marshmallows</name>
+				<picture>breakfast_cereal_images/breakfast_cereal_with_marshmallows.png</picture>
+				<price>4.93</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Shredded Wheat Cereal</name>
+				<picture>breakfast_cereal_images/shredded_wheat_cereal.png</picture>
+				<price>2.82</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Almond Crunchy Honey Oats Cereal</name>
+				<picture>breakfast_cereal_images/almond_crunchy_honey_oats_cereal.png</picture>
+				<price>2.67</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Fruity Kids Cereal</name>
+				<picture>breakfast_cereal_images/fruity_kids_cereal.png</picture>
+				<price>4.93</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Honey Nut Cheerios</name>
+				<picture>breakfast_cereal_images/honey_nut_cheerios.png</picture>
+				<price>3.00</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Froot Loops Original with Marshmallows</name>
+				<picture>breakfast_cereal_images/froot_loops_original_with_marshmallows.png</picture>
+				<price>4.98</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Crispy Cinnamon Cereal</name>
+				<picture>breakfast_cereal_images/crispy_cinnamon_cereal.png</picture>
+				<price>6.48</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Frosted Flakes Original Breakfast Cereal</name>
+				<picture>breakfast_cereal_images/frosted_flakes_original_breakfast_cereal.png</picture>
+				<price>4.98</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Corn Pops Original Breakfast Cereal</name>
+				<picture>breakfast_cereal_images/corn_pops_original_breakfast_cereal.png</picture>
+				<price>4.98</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Chocolate Breakfast Cereal with Whole Grains</name>
+				<picture>breakfast_cereal_images/chocolate_breakfast_cereal_with_whole_grains.png</picture>
+				<price>4.93</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Graham Cracker</name>
+				<picture>breakfast_cereal_images/graham_cracker.png</picture>
+				<price>4.93</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Raisin Bran Breakfast Cereal</name>
+				<picture>breakfast_cereal_images/raisin_bran_breakfast_cereal.png</picture>
+				<price>2.76</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Oat Breakfast Cereal</name>
+				<picture>breakfast_cereal_images/oat_breakfast_cereal.png</picture>
+				<price>2.76</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Peanut Butter Crunch</name>
+				<picture>breakfast_cereal_images/peanut_butter_crunch.png</picture>
+				<price>4.78</price>
+				<quantity>2</quantity>
+			</item>
+		</category>
+
+		<category name="pancakes_waffles">
+			<item>
+				<name>Pancake and Waffle Mix Buttermilk</name>
+				<picture>breakfast_cereal_images/pancake_waffle_mix_buttermilk.png</picture>
+				<price>1.98</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Buttermilk Pancake Mix and Waffle Mix</name>
+				<picture>breakfast_cereal_images/buttermilk_pancake_mix_and_waffle_mix.png</picture>
+				<price>2.77</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Original Pancake and Baking Mix</name>
+				<picture>breakfast_cereal_images/original_pancake_baking_mix.png</picture>
+				<price>2.92</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Extra Light and Fluffy Pancake Mix and Waffle Mix</name>
+				<picture>breakfast_cereal_images/extra_light_and_fluffy_pancake_mix_and_waffle_mix.png</picture>
+				<price>2.77</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Blueberry Pancake and Waffle Mix</name>
+				<picture>breakfast_cereal_images/blueberry_pancake_waffle_mix.png</picture>
+				<price>2.20</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Cinnamon Toast Crunch Pancake Kit Baking Mix</name>
+				<picture>breakfast_cereal_images/cinnamon_toast_crunch_pancake_kit_baking_mix.png</picture>
+				<price>3.78</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Cinnamon Churro Belgian Waffle Mix</name>
+				<picture>breakfast_cereal_images/cinnamon_churro_belgian_waffle_mix.png</picture>
+				<price>2.76</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Pumpkin Spice Pancake and Waffle Mix</name>
+				<picture>breakfast_cereal_images/pumpkin_spice_pancake_waffle_mix.png</picture>
+				<price>1.97</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Sweet Cream Pancake and Waffle Mix</name>
+				<picture>breakfast_cereal_images/sweet_cream_pancake_and_waffle_mix.png</picture>
+				<price>2.76</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Belgian Waffle Mix Light and Crispy</name>
+				<picture>breakfast_cereal_images/belgian_waffle_mix_light_crispy.png</picture>
+				<price>2.76</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Original Syrup</name>
+				<picture>breakfast_cereal_images/original_syrup.png</picture>
+				<price>2.36</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Shake 'n Pour Buttermilk Pancake Mix</name>
+				<picture>breakfast_cereal_images/shake_pour_buttermilk_pancake_mix.png</picture>
+				<price>3.76</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Original Thick and Rich Pancake Syrup</name>
+				<picture>breakfast_cereal_images/original_thick_and_rich_pancake_syrup.png</picture>
+				<price>3.34</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Extra Buttery Pancake Syrup</name>
+				<picture>breakfast_cereal_images/extra_buttery_pancake_syrup.png</picture>
+				<price>3.34</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Cane Sugar Grenadine Mixer</name>
+				<picture>breakfast_cereal_images/cane_sugar_grenadine_mixer.png</picture>
+				<price>3.98</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Lite Syrup Natural Butter Flavor</name>
+				<picture>breakfast_cereal_images/lite_syrup_natural_butter_flavor.png</picture>
+				<price>3.47</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Butter Rich Syrup Natural Butter Flavor</name>
+				<picture>breakfast_cereal_images/butter_rich_syrup_natural_butter_flavor.png</picture>
+				<price>4.72</price>
+				<quantity>4</quantity>
+			</item>
+		</category>
+
+		<category name="breakfast_breads">
+			<item>
+				<name>Mini Iced Cinnamon Rolls</name>
+				<picture>breakfast_cereal_images/mini_iced_cinnamon_rolls.png</picture>
+				<price>4.98</price>
+				<quantity>13</quantity>
+			</item>
+			<item>
+				<name>Butter Croissants</name>
+				<picture>breakfast_cereal_images/butter_croissants.png</picture>
+				<price>4.98</price>
+				<quantity>9.5</quantity>
+			</item>
+			<item>
+				<name>Pre-Sliced Plain Bagels</name>
+				<picture>breakfast_cereal_images/pre_sliced_plain_bagels.png</picture>
+				<price>1.98</price>
+				<quantity>20</quantity>
+			</item>
+			<item>
+				<name>Fork Split English Muffins</name>
+				<picture>breakfast_cereal_images/fork_split_english_muffins.png</picture>
+				<price>1.50</price>
+				<quantity>12</quantity>
+			</item>
+			<item>
+				<name>Pre-Sliced Cinnamon Raisin Bagels</name>
+				<picture>breakfast_cereal_images/pre_sliced_cinnamon_raisin_bagels.png</picture>
+				<price>1.98</price>
+				<quantity>20</quantity>
+			</item>
+			<item>
+				<name>Plain Bagels</name>
+				<picture>breakfast_cereal_images/plain_bagels.png</picture>
+				<price>4.18</price>
+				<quantity>20</quantity>
+			</item>
+			<item>
+				<name>Cinnamon Rolls with Original Icing</name>
+				<picture>breakfast_cereal_images/cinnamon_rolls_with_original_icing.png</picture>
+				<price>1.98</price>
+				<quantity>7.3</quantity>
+			</item>
+			<item>
+				<name>Sliced Bread with Cinnamon Bursts</name>
+				<picture>breakfast_cereal_images/sliced_bread_with_cinnamon_bursts.png</picture>
+				<price>3.74</price>
+				<quantity>16</quantity>
+			</item>
+			<item>
+				<name>Bagels</name>
+				<picture>breakfast_cereal_images/bagels.png</picture>
+				<price>4.18</price>
+				<quantity>20</quantity>
+			</item>
+			<item>
+				<name>Glazed Cinnamon Rolls</name>
+				<picture>breakfast_cereal_images/glazed_cinnamon_rolls.png</picture>
+				<price>5.24</price>
+				<quantity>15</quantity>
+			</item>
+			<item>
+				<name>Chocolate Chip Mini Muffins</name>
+				<picture>breakfast_cereal_images/chocolate_chip_mini_muffins.png</picture>
+				<price>3.57</price>
+				<quantity>8.25</quantity>
+			</item>
+			<item>
+				<name>Blueberry Bagels</name>
+				<picture>breakfast_cereal_images/blueberry_bagels.png</picture>
+				<price>4.18</price>
+				<quantity>20</quantity>
+			</item>
+			<item>
+				<name>Mini Banana Nut Muffins</name>
+				<picture>breakfast_cereal_images/mini_banana_nut_muffins.png</picture>
+				<price>3.48</price>
+				<quantity>12</quantity>
+			</item>
+			<item>
+				<name>Asiago Cheese Bagels</name>
+				<picture>breakfast_cereal_images/asiago_cheese_bagels.png</picture>
+				<price>3.74</price>
+				<quantity>22.8</quantity>
+			</item>
+			<item>
+				<name>Banana Chocolate Chunk Muffins</name>
+				<picture>breakfast_cereal_images/banana_chocolate_chunk_muffins.png</picture>
+				<price>4.98</price>
+				<quantity>14</quantity>
+			</item>
+			<item>
+				<name>Cinnamon Rolls</name>
+				<picture>breakfast_cereal_images/cinnamon_rolls.png</picture>
+				<price>4.98</price>
+				<quantity>16</quantity>
+			</item>
+			<item>
+				<name>Pre-Sliced Blueberry Bagel</name>
+				<picture>breakfast_cereal_images/pre_sliced_blueberry_bagel.png</picture>
+				<price>2.74</price>
+				<quantity>17.1</quantity>
+			</item>
+		</category>
+
+		<category name="oatmeal_grits">
+			<item>
+				<name>Original Quick 5-Minute Grits</name>
+				<picture>breakfast_cereal_images/original_quick_5_minute_grits.png</picture>
+				<price>2.88</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Apples and Cinnamon Instant Oatmeal</name>
+				<picture>breakfast_cereal_images/apples_cinnamon_instant_oatmeal.png</picture>
+				<price>1.82</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Butter Instant Grits</name>
+				<picture>breakfast_cereal_images/butter_instant_grits.png</picture>
+				<price>2.08</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Maple and Brown Sugar</name>
+				<picture>breakfast_cereal_images/maple_brown_sugar.png</picture>
+				<price>2.88</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Whole Grain</name>
+				<picture>breakfast_cereal_images/whole_grain.png</picture>
+				<price>5.68</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Strawberries and Cream Instant Oatmeal</name>
+				<picture>breakfast_cereal_images/strawberries_cream_instant_oatmeal.png</picture>
+				<price>1.82</price>
+				<quantity>2</quantity>
+			</item>
+		</category>
+
+		<category name="rollbacks">
+			<item>
+				<name>Oatmeal</name>
+				<picture>breakfast_cereal_images/oatmeal.png</picture>
+				<price>0.10</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Cereal</name>
+				<picture>breakfast_cereal_images/cereal.png</picture>
+				<price>0.15</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Granola</name>
+				<picture>breakfast_cereal_images/granola.png</picture>
+				<price>0.25</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Instant Coffee</name>
+				<picture>breakfast_cereal_images/instant_coffee.png</picture>
+				<price>0.30</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Pancake Mix</name>
+				<picture>breakfast_cereal_images/pancake_mix.png</picture>
+				<price>0.20</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Maple Syrup</name>
+				<picture>breakfast_cereal_images/maple_syrup.png</picture>
+				<price>0.40</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Breakfast Bars</name>
+				<picture>breakfast_cereal_images/breakfast_bars.png</picture>
+				<price>0.25</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Peanut Butter</name>
+				<picture>breakfast_cereal_images/peanut_butter.png</picture>
+				<price>0.10</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Yogurt</name>
+				<picture>breakfast_cereal_images/yogurt.png</picture>
+				<price>0.40</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Fresh Fruits</name>
+				<picture>breakfast_cereal_images/fresh_fruits.png</picture>
+				<price>0.80</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Milk</name>
+				<picture>breakfast_cereal_images/milk.png</picture>
+				<price>0.06</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Bagel</name>
+				<picture>breakfast_cereal_images/bagels.png</picture>
+				<price>0.50</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Cream Cheese</name>
+				<picture>breakfast_cereal_images/cream_cheese.png</picture>
+				<price>0.20</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Orange Juice</name>
+				<picture>breakfast_cereal_images/orange_juice.png</picture>
+				<price>0.08</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Eggs</name>
+				<picture>breakfast_cereal_images/eggs.png</picture>
+				<price>0.12</price>
+				<quantity>3</quantity>
+			</item>
+		</category>
+
+	</type>
+
+	<type name="candy">
+
+		<category name="candy">
+			<item>
+				<name>M&amp;M</name>
+				<picture>candy_images/m_m.png</picture>
+				<price>3.96</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Ghirardelli Milk Chocolate Pumpkin Spice Caramel Squares</name>
+				<picture>candy_images/ghirardelli_milk_chocolate_pumpkin_spice_caramel_squares.png</picture>
+				<price>7.18</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Dove Promises Milk Chocolate Pumpkins</name>
+				<picture>candy_images/dove_promises_milk_chocolate_pumpkins.png</picture>
+				<price>4.48</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Lindt Lindor Caramel Milk Chocolate Candy Truffles</name>
+				<picture>candy_images/lindt_lindor_caramel_milk_chocolate_candy_truffles.png</picture>
+				<price>4.74</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Lindt Lindor Maple Milk Chocolate Candy Truffles</name>
+				<picture>candy_images/lindt_lindor_maple_milk_chocolate_candy_truffles.png</picture>
+				<price>4.74</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Reese's Milk Chocolate Peanut Butter King Size</name>
+				<picture>candy_images/reeses_milk_chocolate_peanut_butter_king_size.png</picture>
+				<price>8.12</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>York</name>
+				<picture>candy_images/york.png</picture>
+				<price>14.98</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Hershey's Kisses Milk Chocolate</name>
+				<picture>candy_images/hersheys_kisses_milk_chocolate.png</picture>
+				<price>13.95</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Cadbury</name>
+				<picture>candy_images/cadbury.png</picture>
+				<price>12.95</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Reese's White Creme Peanut Butter King Size</name>
+				<picture>candy_images/reeses_white_creme_peanut_butter_king_size.png</picture>
+				<price>8.12</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Kit Kat</name>
+				<picture>candy_images/kit_kat.png</picture>
+				<price>6.40</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Reese's Miniatures Milk Chocolate Peanut Butter Cups</name>
+				<picture>candy_images/reeses_miniatures_milk_chocolate_peanut_butter_cups.png</picture>
+				<price>14.99</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Hershey's Miniatures Assorted Milk and Dark Chocolate</name>
+				<picture>candy_images/hersheys_miniatures_assorted_milk_and_dark_chocolate.png</picture>
+				<price>13.75</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Butterfinger</name>
+				<picture>candy_images/butterfinger.png</picture>
+				<price>7.98</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Ghirardelli Premium Chocolate Fall Assortment Squares</name>
+				<picture>candy_images/ghirardelli_premium_chocolate_fall_assortment_squares.png</picture>
+				<price>16.99</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Ghirardelli Milk Chocolate Caramel Apple Squares</name>
+				<picture>candy_images/ghirardelli_milk_chocolate_caramel_apple_squares.png</picture>
+				<price>19.47</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Kinder Joy Egg</name>
+				<picture>candy_images/kinder_joy_egg.png</picture>
+				<price>6.88</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Sour Punch Spooky Straws</name>
+				<picture>candy_images/sour_punch_spooky_straws.png</picture>
+				<price>7.24</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Haribo Gummy Sour Vampire Bats</name>
+				<picture>candy_images/haribo_gummy_sour_vampire_bats.png</picture>
+				<price>7.95</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Haribo Scaremix</name>
+				<picture>candy_images/haribo_scaremix.png</picture>
+				<price>7.24</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Nerds Halloween Spooky Ropes</name>
+				<picture>candy_images/nerds_halloween_spooky_ropes.png</picture>
+				<price>5.98</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Sour Patch Kids Apple Harvest</name>
+				<picture>candy_images/sour_patch_kids_apple_harvest.png</picture>
+				<price>7.49</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Dove Promises Smooth Dark Chocolate Pumpkins</name>
+				<picture>candy_images/dove_promises_smooth_dark_chocolate_pumpkins.png</picture>
+				<price>9.99</price>
+				<quantity>9</quantity>
+			</item>
+		</category>
+
+	</type>
+
+	<type name="snacks">
+		<category name="snacks">
+			<item>
+				<name>Goldfish Cheddar Cheese Crackers</name>
+				<picture>snacks_images/goldfish_cheddar_cheese_crackers.png</picture>
+				<price>5.13</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Cheez-It Variety Pack Cheese Crackers</name>
+				<picture>snacks_images/cheez_it_variety_pack_cheese_crackers.png</picture>
+				<price>6.48</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Doritos Dinamita Sticks Smoky Chile Queso</name>
+				<picture>snacks_images/doritos_dinamita_sticks_smoky_chile_queso.png</picture>
+				<price>3.88</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Lay's Potato Chip Variety Pack</name>
+				<picture>snacks_images/lays_potato_chip_variety_pack.png</picture>
+				<price>21.86</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Doritos Dinamita Hot Honey Mustard</name>
+				<picture>snacks_images/doritos_dinamita_hot_honey_mustard.png</picture>
+				<price>3.88</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Doritos Dinamita Sticks Tangy Fiery Lime</name>
+				<picture>snacks_images/doritos_dinamita_sticks_tangy_fiery_lime.png</picture>
+				<price>3.88</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Frito-Lay Doritos and Cheetos Mix Snacks Variety Pack</name>
+				<picture>snacks_images/frito_lay_doritos_cheetos_mix_snacks_variety_pack.png</picture>
+				<price>32.50</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>PopCorners Popped Corn Snacks</name>
+				<picture>snacks_images/popcorners_popped_corn_snacks.png</picture>
+				<price>21.86</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Frito-Lay Fun Times Mix Snacks</name>
+				<picture>snacks_images/frito_lay_fun_times_mix_snacks.png</picture>
+				<price>21.86</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Frito-Lay Simply Brand Snacks</name>
+				<picture>snacks_images/frito_lay_simply_brand_snacks.png</picture>
+				<price>19.64</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Doritos Cool Ranch Flavored Tortilla Chips</name>
+				<picture>snacks_images/doritos_cool_ranch_flavored_tortilla_chips.png</picture>
+				<price>35.18</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>RITZ Fresh Stacks Original Crackers</name>
+				<picture>snacks_images/ritz_fresh_stacks_original_crackers.png</picture>
+				<price>4.68</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Cheez-It Original Cheese Crackers</name>
+				<picture>snacks_images/cheez_it_original_cheese_crackers.png</picture>
+				<price>3.78</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>OREO Mini Nutter Butter Bites CHIPS AHOY! Mini</name>
+				<picture>snacks_images/oreo_mini_nutter_butter_bites_chips_ahoy_mini.png</picture>
+				<price>6.42</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Chicken in a Biskit Original Baked Snack Crackers</name>
+				<picture>snacks_images/chicken_in_a_biskit_original_baked_snack_crackers.png</picture>
+				<price>3.58</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Pringles Snack Stacks</name>
+				<picture>snacks_images/pringles_snack_stacks.png</picture>
+				<price>14.84</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Cheetos Puffs Cheese Flavored Snacks</name>
+				<picture>snacks_images/cheetos_puffs_cheese_flavored_snacks.png</picture>
+				<price>3.50</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Mott's Fruit Flavored Snacks</name>
+				<picture>snacks_images/motts_fruit_flavored_snacks.png</picture>
+				<price>7.17</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Little Debbie Star Crunch Cosmic Snacks</name>
+				<picture>snacks_images/little_debbie_star_crunch_cosmic_snacks.png</picture>
+				<price>2.68</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Little Debbie Oatmeal Creme Pies</name>
+				<picture>snacks_images/little_debbie_oatmeal_creme_pies.png</picture>
+				<price>2.68</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>RITZ Crackers 'N Cheesy Dip Snack Packs</name>
+				<picture>snacks_images/ritz_crackers_cheesy_dip_snack_packs.png</picture>
+				<price>6.48</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Cheetos Puff Cheese Flavored Snack Chips</name>
+				<picture>snacks_images/cheetos_puff_cheese_flavored_snack_chips.png</picture>
+				<price>4.48</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Welch's Mixed Fruits Fruit Snacks</name>
+				<picture>snacks_images/welchs_mixed_fruits_fruit_snacks.png</picture>
+				<price>5.48</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Gushers Fruit Flavored Snacks Strawberry Splash and Tropical</name>
+				<picture>snacks_images/gushers_fruit_flavored_snacks_strawberry_splash_and_tropical.png</picture>
+				<price>5.68</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>SkinnyPop Original Popcorn</name>
+				<picture>snacks_images/skinnypop_original_popcorn.png</picture>
+				<price>10.39</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Cheez-It Classic Snack Mix</name>
+				<picture>snacks_images/cheez_it_classic_snack_mix.png</picture>
+				<price>3.68</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Cheddar Colors and Pretzel Crackers Snack Pack</name>
+				<picture>snacks_images/cheddar_colors_and_pretzel_crackers_snack_pack.png</picture>
+				<price>12.86</price>
+				<quantity>9</quantity>
+			</item>
+		</category>
+	</type>
+
+	<type name="baking">
+
+		<category name="pie_fillings">
+			<item>
+				<name>Blueberry Pie Filling or Topping</name>
+				<picture>baking_images/blueberry_pie_filling_or_topping.png</picture>
+				<price>3.17</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Chocolate Instant Pudding and Pie Filling</name>
+				<picture>baking_images/chocolate_instant_pudding_pie_filling.png</picture>
+				<price>0.83</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Strawberry Rhubarb Fruit Filling and Topping</name>
+				<picture>baking_images/strawberry_rhubarb_fruit_filling_and_topping.png</picture>
+				<price>3.48</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Cherry Pie Filling or Topping</name>
+				<picture>baking_images/cherry_pie_filling_or_topping.png</picture>
+				<price>3.12</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Berry Medley Pie Filling and Topping</name>
+				<picture>baking_images/berry_medley_pie_filling_and_topping.png</picture>
+				<price>3.58</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Lemon Creme Pie Filling and Topping</name>
+				<picture>baking_images/lemon_creme_pie_filling_topping.png</picture>
+				<price>3.58</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Apricot Fruit Filling and Topping</name>
+				<picture>baking_images/apricot_fruit_filling_topping.png</picture>
+				<price>4.68</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Caramel Apple Pie Filling and Topping</name>
+				<picture>baking_images/caramel_apple_pie_filling_and_topping.png</picture>
+				<price>3.38</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Apricot Filling</name>
+				<picture>baking_images/apricot_filling.png</picture>
+				<price>21.99</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Strawberry Pie Filling and Topping</name>
+				<picture>baking_images/strawberry_pie_filling_and_topping.png</picture>
+				<price>4.24</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Vanilla Instant Pudding and Pie Filling</name>
+				<picture>baking_images/vanilla_instant_pudding_pie_filling.png</picture>
+				<price>0.83</price>
+				<quantity>6</quantity>
+			</item>
+			<item>
+				<name>Banana Cream Instant Pudding and Pie Filling</name>
+				<picture>baking_images/banana_cream_instant_pudding_pie_filling.png</picture>
+				<price>0.83</price>
+				<quantity>0</quantity>
+			</item>
+		</category>
+
+		<category name="crusts">
+			<item>
+				<name>Pastry Pie Shells</name>
+				<picture>baking_images/pastry_pie_shells.png</picture>
+				<price>3.62</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Refrigerated Pie Crusts</name>
+				<picture>baking_images/refrigerated_pie_crusts.png</picture>
+				<price>4.24</price>
+				<quantity>7</quantity>
+			</item>
+			<item>
+				<name>Mini Pie Crust</name>
+				<picture>baking_images/mini_pie_crust.png</picture>
+				<price>2.94</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Frozen Pie Dough</name>
+				<picture>baking_images/frozen_pie_dough.png</picture>
+				<price>2.98</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Graham Cracker Pie Crust</name>
+				<picture>baking_images/graham_cracker_pie_crust.png</picture>
+				<price>3.12</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Pie Crust Mix</name>
+				<picture>baking_images/pie_crust_mix.png</picture>
+				<price>0.98</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Shortbread Pie Crust</name>
+				<picture>baking_images/shortbread_pie_crust.png</picture>
+				<price>2.94</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Mini Shortbread Tart Shells</name>
+				<picture>baking_images/mini_shortbread_tart_shells.png</picture>
+				<price>4.48</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Pecan Pie Crust</name>
+				<picture>baking_images/pecan_pie_crust.png</picture>
+				<price>3.48</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Walnut Pie Crust</name>
+				<picture>baking_images/walnut_pie_crust.png</picture>
+				<price>3.47</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Chocolate Nut Pie Crust</name>
+				<picture>baking_images/chocolate_nut_pie_crust.png</picture>
+				<price>3.48</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Chocolate Snaps - Pie Crust</name>
+				<picture>baking_images/chocolate_snaps_pie_crust.png</picture>
+				<price>3.88</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Deep Dish Pie Crusts</name>
+				<picture>baking_images/deep_dish_pie_crusts.png</picture>
+				<price>2.54</price>
+				<quantity>8</quantity>
+			</item>
+		</category>
+
+		<category name="pudding_mixes">
+			<item>
+				<name>Cheesecake Sugar Free Fat Free Instant Pudding Mix</name>
+				<picture>baking_images/cheesecake_sugar_free_fat_free_instant_pudding_mix.png</picture>
+				<price>1.32</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Strawberry Shake Instant Pudding Mix</name>
+				<picture>baking_images/strawberry_shake_instant_pudding_mix.png</picture>
+				<price>1.42</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Banana Shake Instant Pudding Mix</name>
+				<picture>baking_images/banana_shake_instant_pudding_mix.png</picture>
+				<price>1.48</price>
+				<quantity>0</quantity>
+			</item>
+			<item>
+				<name>Pistachio Instant Pudding Mix</name>
+				<picture>baking_images/pistachio_instant_pudding_mix.png</picture>
+				<price>1.32</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Root Beer Float Instant Pudding Mix</name>
+				<picture>baking_images/root_beer_float_instant_pudding_mix.png</picture>
+				<price>7.68</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Chocolate Shake Instant Pudding Mix</name>
+				<picture>baking_images/chocolate_shake_instant_pudding_mix.png</picture>
+				<price>7.68</price>
+				<quantity>7</quantity>
+			</item>
+		</category>
+
+		<category name="pie_pans">
+			<item>
+				<name>Foil Disposable Pie Tins with Lids</name>
+				<picture>baking_images/foil_disposable_pie_tins_with_lids.png</picture>
+				<price>3.72</price>
+				<quantity>1</quantity>
+			</item>
+			<item>
+				<name>Heavy Duty Aluminum Pie Pan</name>
+				<picture>baking_images/heavy_duty_aluminum_pie_pan.png</picture>
+				<price>3.98</price>
+				<quantity>8</quantity>
+			</item>
+			<item>
+				<name>Stoneware Pie and Tart Pan</name>
+				<picture>baking_images/stoneware_pie_tart_pan.png</picture>
+				<price>16.88</price>
+				<quantity>3</quantity>
+			</item>
+			<item>
+				<name>Ceramic Pie Pan</name>
+				<picture>baking_images/ceramic_pie_pan.png</picture>
+				<price>13.69</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Mini Pie Pans</name>
+				<picture>baking_images/mini_pie_pans.png</picture>
+				<price>19.97</price>
+				<quantity>5</quantity>
+			</item>
+			<item>
+				<name>Rectangle Pocket Pie Mold</name>
+				<picture>baking_images/rectangle_pocket_pie_mold.png</picture>
+				<price>11.57</price>
+				<quantity>2</quantity>
+			</item>
+			<item>
+				<name>Silicone Mini Tart and Pie Molds</name>
+				<picture>baking_images/silicone_mini_tart_pie_molds.png</picture>
+				<price>19.38</price>
+				<quantity>4</quantity>
+			</item>
+			<item>
+				<name>Aluminized Steel Pie Pan</name>
+				<picture>baking_images/aluminized_steel_pie_pan.png</picture>
+				<price>32.91</price>
+				<quantity>9</quantity>
+			</item>
+			<item>
+				<name>Glass Mini Pie Plate</name>
+				<picture>baking_images/glass_mini_pie_plate.png</picture>
+				<price>29.06</price>
+				<quantity>8</quantity>
+			</item>
+		</category>
+	</type>
+
+</inventory>
